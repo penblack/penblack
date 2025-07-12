@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!--
-**penblack/penblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Pen — just a pen, tryin' to leave its mark on the world. 🖋️
+I'm a self-taught frontend designer and security engineer based in America.
 
-Here are some ideas to get you started:
+I love turning ideas into reality, making accessible cyber defenses that feel effortless. I'm currently building a defensive security suite: [**RedShrew**](RedShrew.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of coding and hacking, you’ll find me smoking meats, off-roading, or drawing. I also enjoy writing blog posts and sharing tech-related content on social media.
+
+#### Fun Facts:
+
+* I prefer tea over coffee.!
+
+* Futurama is my favorite show.
