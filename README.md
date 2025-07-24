@@ -4,7 +4,7 @@ I’m Pen — just a pen, tryin' to leave its mark on the world. <img src="https
 
 I'm a self-taught frontend designer and security engineer based in America.
 
-I love turning ideas into reality, making accessible cyber defenses that feel effortless. I'm currently building a defensive security suite: [**RedShrew**](RedShrew.com)
+I love turning ideas into reality, making accessible cyber defenses that feel effortless. I'm currently building a defensive security suite: [**RedShrew**](https://RedShrew.com)
 
 Outside of coding and hacking, you’ll find me smoking meats, off-roading, or drawing. I also enjoy writing blog posts and sharing tech-related content on social media.
 
